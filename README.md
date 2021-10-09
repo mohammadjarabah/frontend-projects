@@ -5,4 +5,4 @@ This repository is like a container of my Front-End projects I have worked on ðŸ
 ## Projects
 
 ### Single Page Designs:
-* [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/Leon-Agency-s-Portfolio)
+* [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/Leon-Agency-Portfolio)
