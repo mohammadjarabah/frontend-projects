@@ -9,3 +9,4 @@ This repository is like a container of my Front-End projects I have worked on ðŸ
 ### Single Page Designs:
 * [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/Leon-Agency-Portfolio)
 * [Nord Mobile Application](https://github.com/mohammad-jarabah/Nord-Mobile-Application)
+* [Bondi Theme Agency's Website](https://github.com/mohammad-jarabah/Bondi-Theme-Agency-Website)
