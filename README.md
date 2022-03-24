@@ -1,7 +1,7 @@
 <h1 align='center'>Front-End Projects 🚀</h1>
 
 This repository is like a container of my Front-End projects I have worked on 👨‍💻.  
-I hope you enjoy visiting them ✨.
+I hope you enjoy visiting them ✨!
 
 <br>
 
