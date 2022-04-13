@@ -8,10 +8,10 @@ I hope you enjoy visiting them ✨!
 ## Projects
 
 ### Single Page Designs:
-* [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/Leon-Agency-Portfolio)
+* [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/leon-agency-portfolio)
 
-* [Nord Mobile Application's Website](https://github.com/mohammad-jarabah/Nord-Mobile-Application-Website)
+* [Nord Mobile Application's Website](https://github.com/mohammad-jarabah/nord-mobile-application-website)
 
-* [Bondi Theme Agency's Website](https://github.com/mohammad-jarabah/Bondi-Theme-Agency-Website)
+* [Bondi Theme Agency's Website](https://github.com/mohammad-jarabah/bondi-theme-agency-website)
 
-* [Doob Agency's Website](https://github.com/mohammad-jarabah/Doob-Agency-Website)
+* [Doob Agency's Website](https://github.com/mohammad-jarabah/doob-agency-website)
