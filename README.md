@@ -11,12 +11,12 @@ This repository is like a container of the front-end projects I have worked on â
 <details>
 <summary>Single Page Designs</summary>
 
-* [Leon Agency's Website](https://github.com/mohammadjarabah/leon-agency-website)
+* [Leon Agency Website](https://github.com/mohammadjarabah/leon-agency-website)
 
 * [Nord Mobile Application's Website](https://github.com/mohammadjarabah/nord-mobile-application-website)
 
-* [Bondi Theme Agency's Website](https://github.com/mohammadjarabah/bondi-theme-agency-website)
+* [Bondi Theme Agency Website](https://github.com/mohammadjarabah/bondi-theme-agency-website)
 
-* [Doob Agency's Website](https://github.com/mohammadjarabah/doob-agency-website)
+* [Doob Agency Website](https://github.com/mohammadjarabah/doob-agency-website)
 
 </details>
