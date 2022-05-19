@@ -11,7 +11,7 @@ This repository is like a container of the front-end projects I have worked on â
 <details>
 <summary>Single Page Designs</summary>
 
-* [Leon Agency's Portfolio](https://github.com/mohammad-jarabah/leon-agency-portfolio)
+* [Leon Agency's Website](https://github.com/mohammad-jarabah/leon-agency-website)
 
 * [Nord Mobile Application's Website](https://github.com/mohammad-jarabah/nord-mobile-application-website)
 
