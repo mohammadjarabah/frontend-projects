@@ -1,4 +1,4 @@
-<h1 align='center'>Front-end Projects 🚀</h1>
+<h1 align='center'>Front-end Projects</h1>
 
 This repository is like a container of the front-end projects I have worked on ⚡. Enjoy visiting them ✨!
 
