@@ -13,7 +13,7 @@ This repository is like a container of the front-end projects I have worked on â
 
 * [Leon Agency Website](https://github.com/mohammadjarabah/leon-agency-website)
 
-* [Nord Mobile Application's Website](https://github.com/mohammadjarabah/nord-mobile-application-website)
+* [Nord Mobile Application Website](https://github.com/mohammadjarabah/nord-mobile-application-website)
 
 * [Bondi Theme Agency Website](https://github.com/mohammadjarabah/bondi-theme-agency-website)
 
