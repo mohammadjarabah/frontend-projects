@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img src='./images/header.svg' width='450px' height='40px'>
+    <img src='./images/header.svg' width='250px'>
 </h1>
 
 This repository is like a container of the front-end projects I have worked on ⚡. Enjoy visiting them ✨!
