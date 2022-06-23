@@ -10,7 +10,7 @@ This repository is like a container of the front-end projects I have worked on â
 
 ## Projects
 
-<details>
+<details open>
 <summary>Single Page Designs</summary>
 
 * [Leon Agency Website](https://github.com/mohammadjarabah/leon-agency-website)
